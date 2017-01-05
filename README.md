@@ -4,7 +4,7 @@ What you saw is not what you get : domain adaptation using asymmetric kernel tra
 Authors: Brian Kulis, Kate Saenko, Trevor Darrell
 
 Summary：  
-This paper proposed a supervised domain adaptation model. This method Learns an asymmetric non-linear transformation for domain adaptation. It does not require the two domains utilize same features or coodebooks. What's more, a general formulation is proposed for applying the transformation learning problem in kernel space, resulting in non-linear transformations. The corresponding algorithm is based on squared Frobenius regularization and similarity constraints.
+This paper proposes a supervised domain adaptation model. This method Learns an asymmetric non-linear transformation for domain adaptation. It does not require the two domains utilize same features or coodebooks. What's more, a general formulation is proposed for applying the transformation learning problem in kernel space, resulting in non-linear transformations. The corresponding algorithm is based on squared Frobenius regularization and similarity constraints.
 
 Advantages:  
 1. It could handle the case when the source and target domain have different dimansional features.  
